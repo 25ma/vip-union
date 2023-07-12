@@ -1,0 +1,17 @@
+{
+    "name": "25ma/vip-union",
+    "description": "vip union",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "25ma\\VipUnion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "25ma",
+            "email": "25mateam@gmail.com"
+        }
+    ],
+    "require": {}
+}
