@@ -2,6 +2,7 @@
     "name": "i25ma/vip-union",
     "description": "vip union",
     "type": "library",
+    "license":"MIT",
     "autoload": {
         "psr-4": {
             "I25ma\\VipUnion\\": "src/"
